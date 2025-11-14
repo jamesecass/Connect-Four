@@ -1,2 +1,2 @@
 # Connect-Four
-Connect Four
+Connect Four in python 
